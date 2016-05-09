@@ -1,0 +1,1 @@
+print 'Init for dir1 called'

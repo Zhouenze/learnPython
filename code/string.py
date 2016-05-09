@@ -1,0 +1,1 @@
+print 'This is fake string, haha'

@@ -1,0 +1,4 @@
+print to fakeStdout
+1
+print to fakeStdout
+1

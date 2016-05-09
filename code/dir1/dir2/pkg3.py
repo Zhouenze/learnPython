@@ -1,0 +1,1 @@
+print "I'm pkg3, you found me!"
